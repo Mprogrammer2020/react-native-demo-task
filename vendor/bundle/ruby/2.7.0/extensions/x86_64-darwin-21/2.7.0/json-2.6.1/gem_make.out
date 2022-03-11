@@ -1,0 +1,13 @@
+current directory: /Users/netset/Desktop/Workspace/HomeScreenTest/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+/Users/netset/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/netset/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20220311-81433-17m9720.rb extconf.rb
+creating Makefile
+
+current directory: /Users/netset/Desktop/Workspace/HomeScreenTest/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/netset/Desktop/Workspace/HomeScreenTest/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/netset/Desktop/Workspace/HomeScreenTest/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" install
